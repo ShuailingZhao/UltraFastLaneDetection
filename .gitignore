@@ -1,0 +1,16 @@
+**/__pycache__
+
+*.pyc
+*.pth
+
+*vscode
+
+**/build
+
+evaluate 
+tmp
+
+*.avi
+
+model2.py
+data
